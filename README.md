@@ -1,13 +1,21 @@
-# Display-Automatisierung V5
+# Display-Automatisierung – Video V6
 
-[Video als MP4 herunterladen](https://github.com/Kcilly17/dispslls/raw/refs/heads/video-download/video.mp4)
+**[Aktuelle V6 als MP4 herunterladen](https://github.com/Kcilly17/dispslls/raw/refs/heads/video-download/video_v6.mp4)**
 
-Die Datei liegt in diesem privaten Repository. Zum Herunterladen mit dem berechtigten GitHub-Konto anmelden.
+Zum Herunterladen im Browser mit dem berechtigten GitHub-Konto anmelden.
 
-- Laufzeit: 4 Minuten
-- Format: MP4 / H.264, 1280 × 720, 24 Bilder pro Sekunde
-- Dateigröße: ca. 26 MB
+Die V6 enthält aufliegende, mitfahrende Quellzwischenlagen; einzeln abgeschobene Reihen mit je sechs Achterpacks; Links-/Rechtssortierung und Lagenbildung aus drei Produktpaaren mit Anschlägen; eine gestützte Lagenübergabe und einen größeren Puffer mit 24 Plätzen.
+
+Am Ende zeigt ein synchronisierter Schnelldurchlauf den geplanten Anlagenzyklus von exakt **6 Minuten einschließlich Europalettenwechsel**, mit parallelen Stationsbalken und Mengenzählern. Es handelt sich um einen Planungstakt. Insbesondere die angenommenen **2,0 Sekunden pro manuell ausgepacktem Achterpack** müssen praktisch validiert werden.
+
+- Dateigröße: **36 MB**
+- Filmlaufzeit: **5 Minuten 30 Sekunden**
+- Format: MP4 / H.264, 1280 × 720, 24 Bilder/s
 - Englische Einblendungen, ohne Ton
-- Neu aufgebaute 3D-Konzeptanimation aus dem bereitgestellten Projektpaket
+- Vier Displays mit je 36 Achterpacks; insgesamt 144 Achterpacks
+- 04:00–05:00 im Film: vollständiger 360-s-Zyklus mit sechsfacher Geschwindigkeit
+- 05:00–05:02: Abschluss bei 06:00, nächste vorbereitete Quellpalette an der Arbeitsposition
 
-Enthält genau zwei manuelle Rollen, den äußeren Roboterschieber mit Vakuumfunktion, automatische Zwischenlagen am Portal und den Restproduktpuffer. Die Animation stellt ein Konzept dar; die reale technische Auslegung bleibt zu validieren.
+Neu aufgebaute 3D-Konzeptanimation aus dem bereitgestellten Projektpaket. Geometrie und Bewegungsabläufe sind geprüft; die reale mechanische Auslegung, Kräfte, Sicherheit und Taktleistung sind technisch zu validieren.
+
+[Vorherige V5 herunterladen](https://github.com/Kcilly17/dispslls/raw/refs/heads/video-download/video.mp4)
